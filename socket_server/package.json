@@ -1,0 +1,16 @@
+{
+  "name": "socket_server",
+  "version": "1.0.0",
+  "description": "socket server for chatting",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Gaurav Bansal",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.1"
+  }
+}
